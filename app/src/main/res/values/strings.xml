@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ormlite-example</string>
+    <string name="success_on_saving">Success on saving register</string>
+    <string name="error_on_saving">Error on saving register</string>
+    <string name="empty_search">You should fill the search field</string>
+    <string name="ok_label">Ok</string>
+    <string name="loading">Loading registers</string>
+    <string name="saving">Saving registers</string>
+</resources>
